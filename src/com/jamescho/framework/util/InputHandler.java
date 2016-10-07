@@ -8,7 +8,7 @@ import java.awt.event.MouseListener;
 import com.jamescho.game.state.State;
 
 /*
- * InputHandler是一个监听器类
+ * InputHandler是一个监听器类。
  * 它实现了KeyListener与MouseListener接口
  */
 public class InputHandler implements KeyListener, MouseListener{
